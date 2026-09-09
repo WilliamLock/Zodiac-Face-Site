@@ -1,0 +1,49 @@
+{
+  "appName": "Zodiac Face",
+  "screenshots": [
+    {
+      "file": "assets/iphone-01.png",
+      "kind": "real_selection_ui",
+      "sha256": "10b328171217f9b0a656555a168a473f64ea529923749f00fd83e863f7f5263d",
+      "deviceFamily": "iphone",
+      "order": 1
+    },
+    {
+      "file": "assets/iphone-02.png",
+      "kind": "synthetic_marketing",
+      "sha256": "6d81e28680fe44a1e5c3ee609415044f542fa7831f1605c2c0d315aec8afe97f",
+      "deviceFamily": "iphone",
+      "order": 2
+    },
+    {
+      "file": "assets/iphone-03.png",
+      "kind": "synthetic_marketing",
+      "sha256": "3ce4c0e44ddc6b105ae956c952f4d54b938c6572d0b207d9f983c3839b898598",
+      "deviceFamily": "iphone",
+      "order": 3
+    },
+    {
+      "file": "assets/ipad-01.png",
+      "kind": "real_selection_ui",
+      "sha256": "9799c2cef2a6a8971b4dc499d19228d1c805d46685c9180b35f317f8967b8b2b",
+      "deviceFamily": "ipad",
+      "order": 1
+    },
+    {
+      "file": "assets/ipad-02.png",
+      "kind": "synthetic_marketing",
+      "sha256": "a322c0a35b3a75b295ec2e6e1a57017a46e2b7941970d717fefb3b078bf20cd0",
+      "deviceFamily": "ipad",
+      "order": 2
+    },
+    {
+      "file": "assets/ipad-03.png",
+      "kind": "synthetic_marketing",
+      "sha256": "b8c76a2255c99e4e9218d517c9740be6abf02a512d94ba48a07b860c352a4849",
+      "deviceFamily": "ipad",
+      "order": 3
+    }
+  ],
+  "iconSHA256": "a87348354eb3b08a4646627b890cd8e233392d92823efda25ae7ce07c9f1691d",
+  "imageEditing": "None. Exact approved icon and final screenshot files copied."
+}
